@@ -74,6 +74,7 @@ console.log(secret)
 // 'What are your hobbies?'. isStudent is true and age is over 30, so this is not output.
 // The last else states that if isStudent is set to true, the output would be 'Welcome to Prime!'
 // This is true, and the console outputs 'Welcome to Prime!'.
+// Since the else if that output Prime is executed, no other portions of code after are run.
 
 
 //CODE
