@@ -29,7 +29,7 @@ if (number >= 2) {
 // if the variable meets these standards, the console logs 'yes'. Otherwise, nothing happens.
 
 //CODE
-
+/*
 let name = 'Dane';
 
 if (name === 'Mary') {
@@ -37,7 +37,7 @@ if (name === 'Mary') {
 } else {
   console.log('How do you do?');
 }
-
+*/
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // A string variable is made and is defined as 'Dane'.
@@ -46,7 +46,7 @@ if (name === 'Mary') {
 // The variable name is not equal to 'Mary', since it was set to 'Dane'. Therefore the console will log 'How do you do?'.
 
 //CODE
-/*
+
 let secret;
 
 let code = 123;
@@ -62,7 +62,6 @@ if (code > 250) {
 
 console.log(secret)
 
-*/
 
 // 3. WRITE YOUR DESCRIPTION HERE
 // A variable is made called secret but has not yet been defined.
