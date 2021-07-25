@@ -13,7 +13,7 @@
 // we console.log 'yes'.
 
 //CODE
-/*
+
 let number = 1;
 
 number++;
@@ -21,9 +21,6 @@ number++;
 if (number >= 2) {
   console.log('yes');
 }
-
-*/
-
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // A number variable is made named number and is set to 1.
