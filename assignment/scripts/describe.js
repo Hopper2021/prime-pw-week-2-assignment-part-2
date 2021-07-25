@@ -23,10 +23,10 @@ if (number >= 2) {
 }
 */
 // 1. WRITE YOUR DESCRIPTION HERE
-// A number variable is made named number and is set to 1.
-// the number variable is incremented by 1.
-// A conditional statement is used to verify it the variable called number is greater than or equal to 2.
-// if the variable meets these standards, the console logs 'yes'. Otherwise, nothing happens.
+// A string variable is made and is defined as 'Dane'.
+// A conditional statement checks to see if the variable called name is the same as the string 'Mary'.
+// If the string is the same as 'Mary', the console will log 'Hi, Mary!', if not the console will log 'How do you do?'.
+// The variable name is not equal to 'Mary', since it was set to 'Dane'. Therefore the console will log 'How do you do?'.
 
 //CODE
 /*
@@ -40,13 +40,16 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// A string variable is made and is defined as 'Dane'.
-// A conditional statement checks to see if the variable called name is the same as the string 'Mary'.
-// If the string is the same as 'Mary', the console will log 'Hi, Mary!', if not the console will log 'How do you do?'.
-// The variable name is not equal to 'Mary', since it was set to 'Dane'. Therefore the console will log 'How do you do?'.
+// A variable is made called secret but has not yet been defined.
+// Another variable is made named code and is defined as the number 123.
+// A conditional statement checks to see if the variable named code is the same as the number 123.
+// If it is the same, which it is, the variable secret is set as the string 'super' and the variable code is multipled by 2.
+// Another conditional statement verifys if the variable code is greater than 250. If so, which it is not,
+// the variable secret will be set to the string 'duper'.
+// The console then logs the variable secret, the output is 'super' because code is 246.
 
 //CODE
-
+/*
 let secret;
 
 let code = 123;
@@ -61,16 +64,17 @@ if (code > 250) {
 }
 
 console.log(secret)
-
+*/
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// A variable is made called secret but has not yet been defined.
-// Another variable is made named code and is defined as the number 123.
-// A conditional statement checks to see if the variable named code is the same as the number 123.
-// If it is the same, which it is, the variable secret is set as the string 'super' and the variable code is multipled by 2.
-// Another conditional statement verifys if the variable code is greater than 250. If so, which it is not,
-// the variable secret will be set to the string 'duper'.
-// The console then logs the variable secret, the output is 'super' because code is 246.
+// Three variables are made, isStudent that equals true, age that equals 34, and zip than equals 55407.
+// A conditional statement is written with 3 outcomes. If isStudent is true AND the zip is 80000,
+// the output would be 'You're a student on the west coast!'. zip is not equal to 80000.
+// the else states that if isStudent is false OR age is less than 30, the output would be
+// 'What are your hobbies?'. isStudent is true and age is over 30, so this is not output.
+// The last else states that if isStudent is set to true, the output would be 'Welcome to Prime!'
+// This is true, and the console outputs 'Welcome to Prime!'.
+
 
 //CODE
 /*
@@ -87,7 +91,6 @@ if (isStudent === true && zip > 80000 ) {
 } else {
   console.log('How about the weather?')
 }
-
 */
 
 
