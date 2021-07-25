@@ -13,7 +13,7 @@
 // we console.log 'yes'.
 
 //CODE
-
+/*
 let number = 1;
 
 number++;
@@ -21,7 +21,7 @@ number++;
 if (number >= 2) {
   console.log('yes');
 }
-
+*/
 // 1. WRITE YOUR DESCRIPTION HERE
 // A number variable is made named number and is set to 1.
 // the number variable is incremented by 1.
@@ -29,7 +29,7 @@ if (number >= 2) {
 // if the variable meets these standards, the console logs 'yes'. Otherwise, nothing happens.
 
 //CODE
-/*
+
 let name = 'Dane';
 
 if (name === 'Mary') {
@@ -38,8 +38,6 @@ if (name === 'Mary') {
   console.log('How do you do?');
 }
 
-
-*/
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // A string variable is made and is defined as 'Dane'.
