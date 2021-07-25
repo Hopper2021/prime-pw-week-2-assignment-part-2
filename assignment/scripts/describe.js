@@ -77,7 +77,7 @@ console.log(secret)
 
 
 //CODE
-/*
+
 let isStudent = true;
 let age = 34;
 let zip = 55407;
@@ -91,7 +91,7 @@ if (isStudent === true && zip > 80000 ) {
 } else {
   console.log('How about the weather?')
 }
-*/
+
 
 
 
